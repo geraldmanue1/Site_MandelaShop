@@ -242,12 +242,12 @@ $thumb-background: rgba(31, 163, 191, 0.05);
 
 /* Modal Content */
 .modal-content {
-  position: relative;
-  background-color: #fefefe;
-  margin: auto;
-  padding: 0;
-  width: 86%;
-  max-width: 760px;
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    width: 86%;
+    max-width: 800px;
 }
 
 /* The Close Button */
